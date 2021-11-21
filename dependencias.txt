@@ -1,0 +1,8 @@
+INSTALAR EXPRESS
+npm install express --save
+
+INSTALAR MYSQL
+npm install mysql
+
+INSTALAR EL MODULO CORS
+npm install cors
